@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        <body> {
+<style>
+      <body> {
             font-family: Arial, sans-serif;
             background-image: url('https://images.pond5.com/space-cartoon-animated-background-footage-075133825_iconl.jpeg');
             background-size: cover;
@@ -34,7 +34,7 @@
             margin-right: 10px;
         }
         </body>
-    </style>
+</style>
 </head>
 <body>
     <img src="gif-url.gif" alt="Welcome GIF">
