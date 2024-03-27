@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Decorative Dashboard</title>
+    
 </head>
 <body style="font-family: Arial, sans-serif; background-image: url('https://images.pond5.com/space-cartoon-animated-background-footage-075133825_iconl.jpeg'); background-size: cover; background-position: center; color: #fff; padding: 20px;">
     <img src="https://gifdb.com/images/high/colorful-welcome-text-qrte99k2a28j5mq2.gif" alt="Welcome GIF">
