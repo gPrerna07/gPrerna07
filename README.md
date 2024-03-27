@@ -1,13 +1,14 @@
-# Welcome to My GitHub Profile! 🎉
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Decorative Dashboar</title>
+</head>
+<body>
+    <h1>Hi there! Thanks for stopping by! 👋</h1>
+    <img src="https://gifdb.com/images/high/colorful-welcome-text-qrte99k2a28j5mq2.gif" alt="Welcome GIF">
+    <p>My name is Prerna !. Feel free to explore my profile .</p>
+</body>
+</html>
 
-Hi there! Thanks for stopping by! 👋
-
-![Welcome GIF](https://gifdb.com/images/high/colorful-welcome-text-qrte99k2a28j5mq2.gif)
-
-## About Me
-
-I'm Prerna Gupta!. Welcome to my GitHub profile!
-
-## Let's Connect
-
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/prerna-gupta-54300327b) and [Twitter](www.twitter.com/Prernag80221659)!
