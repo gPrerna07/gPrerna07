@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="font-family: Arial, sans-serif; background-image: url('https://images.pond5.com/space-cartoon-animated-background-footage-075133825_iconl.jpeg'); background-size: cover; background-position: center; color: #fff; padding: 20px;">
-    <img src="https://media1.tenor.com/m/bR5fIwOwjvIAAAAd/discord-welcome.gif" alt="Welcome GIF">
+    <img src="https://images.squarespace-cdn.com/content/v1/552186b6e4b0bf692316f9d2/1540964677071-DPBV1UB4OD5PUFNT4L79/final.gif" alt="Welcome GIF">
     <h1 style="margin-top: 0;">Hello <em>there!</em></h1>
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
     <p>My name is Prerna. I'm an economics graduate who loves to code in Python. Feel free to explore!</p>
