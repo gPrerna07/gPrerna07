@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Decorative Dashboard</title>
     <style>
-        body {
+        <body> {
             font-family: Arial, sans-serif;
             background-image: url('https://images.pond5.com/space-cartoon-animated-background-footage-075133825_iconl.jpeg');
             background-size: cover;
@@ -34,10 +34,11 @@
             width: 30px;
             margin-right: 10px;
         }
+        </body>
     </style>
 </head>
 <body>
-    <img src="https://gifdb.com/images/high/colorful-welcome-text-qrte99k2a28j5mq2.gif" alt="Welcome GIF"> <!-- Placed within body -->
+    <img src="gif-url.gif" alt="Welcome GIF">
     <h1>Welcome</h1>
     <em>there!</em>
     <hr>
@@ -49,8 +50,5 @@
     </div>
 </body>
 </html>
-
-
-
 
 
