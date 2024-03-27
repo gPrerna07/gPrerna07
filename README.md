@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Decorative Dashboard</title>
     <style>
         <body> {
             font-family: Arial, sans-serif;
@@ -40,7 +39,7 @@
 <body>
     <img src="gif-url.gif" alt="Welcome GIF">
     <h1>Welcome</h1>
-    <em>there!</em>
+    <em>Hi there!</em>
     <hr>
     <p>My name is Prerna. I'm an economics graduate who loves to code in Python. Feel free to explore!</p>
     <div class="languages">
