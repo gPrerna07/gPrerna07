@@ -10,9 +10,9 @@
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
     <p>My name is Prerna. I'm an economics graduate who loves to code in Python. Feel free to explore!</p>
     <div class="languages" style="margin-top: 20px;">
-        <img src="python-logo.png" alt="Python" style="width: 30px; margin-right: 10px;">
-        <img src="sql-logo.png" alt="SQL" style="width: 30px; margin-right: 10px;">
-        <img src="github-logo.png" alt="GitHub" style="width: 30px; margin-right: 10px;">
+        <img src="python-logo.png" style="width: 30px; margin-right: 10px;">
+        <img src="sql-logo.png"  style="width: 30px; margin-right: 10px;">
+        <img src="github-logo.png" style="width: 30px; margin-right: 10px;">
     </div>
 </body>
 </html>
