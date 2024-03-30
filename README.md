@@ -14,7 +14,7 @@
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
     </div>
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
-    <img src="https://static-00.iconduck.com/assets.00/logo-python-icon-506x512-t38ct41x.png" style="margin-top: 20px;">
+    <img src="https://static-00.iconduck.com/assets.00/logo-python-icon-506x512-t38ct41x.png" style="margin-top: 20px; width: 100px;">
 </body>
 </html>
 
