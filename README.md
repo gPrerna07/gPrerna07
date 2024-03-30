@@ -12,9 +12,8 @@
         <p>My name is Prerna. I'm an economics honors graduate with expertise in Python and SQL. I'm passionate about coding and always eager to learn new technologies.</p>
     </div>
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
-        <!-- Add more projects as needed -->
     </div>
-    <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
+    <hr style="border: 0; height: 1px; background: #fff; margin: 10px 0;">
     <img src="https://static-00.iconduck.com/assets.00/logo-python-icon-506x512-t38ct41x.png" style="margin-top: 20px;">
 </body>
 </html>
