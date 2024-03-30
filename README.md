@@ -9,7 +9,7 @@
     <h1 style="margin-top: 0;">Hello <em>there!</em></h1>
     <div class="about-box" style="background-color: rgba(255, 255, 255, 0.3); padding: 20px; border-radius: 10px; border: 2px solid #fff; margin-bottom: 20px;">
         <h2>About Me</h2>
-        <p>My name is Prerna. I'm an economics honors graduate with expertise in Python and SQL. I'm passionate about coding and always eager to learn new technologies.</p>
+        <p>My name is Prerna. I'm an economics honors graduate, codes in Python and SQL. I'm always eager to learn new technologies.</p>
     </div>
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
     </div>
