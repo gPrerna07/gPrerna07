@@ -15,7 +15,7 @@
         <!-- Add more projects as needed -->
     </div>
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
-    <img src="https://www.example.com/logo.png" alt="Logo" style="margin-top: 20px;">
+    <img src="https://static-00.iconduck.com/assets.00/logo-python-icon-506x512-t38ct41x.png" style="margin-top: 50px;">
 </body>
 </html>
 
