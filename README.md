@@ -12,14 +12,6 @@
         <p>My name is Prerna. I'm an economics honors graduate with expertise in Python and SQL. I'm passionate about coding and always eager to learn new technologies.</p>
     </div>
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
-    <h2>Projects</h2>
-    <div class="project-section">
-        <h3>Project 1</h3>
-        <p>Description of Project 1</p>
-        <a href="#">Link to Project 1</a>
-        <h3>Project 2</h3>
-        <p>Description of Project 2</p>
-        <a href="#">Link to Project 2</a>
         <!-- Add more projects as needed -->
     </div>
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
