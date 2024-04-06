@@ -9,7 +9,9 @@
     <h1 style="margin-top: 0;">Hello <em>there!</em></h1>
     <div class="about-box" style="background-color: rgba(255, 255, 255, 0.3); padding: 20px; border-radius: 10px; border: 2px solid #fff; margin-bottom: 20px;">
         <h2>About Me</h2>
-        <p>My name is Prerna. I'm an economics honors graduate, codes in Python and SQL. I'm always eager to learn new technologies.</p>
+        <p>
+
+👋 Hi there! I'm Prerna Gupta, an economics graduate with a passion for data analysis and visualization. As an aspiring analyst, I thrive on solving complex problems and uncovering meaningful insights from data. With a solid foundation in Python, Tableau, SQL, and Excel, I've embarked on a journey to blend my analytical skills with cutting-edge technologies to drive informed decision-making. From building Python projects for data manipulation to crafting compelling visualizations in Tableau, I'm constantly exploring new ways to leverage data to make a positive impact. Let's connect and explore the endless possibilities of data togethe.</p>
     </div>
     <hr style="border: 0; height: 1px; background: #fff; margin: 20px 0;">
     </div>
